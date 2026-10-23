@@ -1,0 +1,4 @@
+DocuMind is an AI-powered visual RAG assistant. 
+It uses FastAPI for the backend and Next.js for the frontend.
+For vector storage, it uses ChromaDB to hold document embeddings.
+It was created by a developer learning real-world full-stack AI engineering.
